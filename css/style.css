@@ -93,3 +93,33 @@ top: 1300px;
 
 }
     
+.info{
+    position: absolute;
+    top: 1000px;
+    right: -500px;
+    list-style-type: none;
+}
+.info2{
+    position: absolute;
+    top: 1020px;
+    right: -500px;
+    list-style-type: none;
+}
+.info3{
+    position: absolute;
+    top: 1040px;
+    right: -500px;
+    list-style-type: none;
+}
+.info4{
+    position: absolute;
+    top: 1060px;
+    right: -500px;
+    list-style-type: none;
+}
+.info5{
+    position: absolute;
+    top: 1080px;
+    right: -500px;
+    list-style-type: none;
+}
